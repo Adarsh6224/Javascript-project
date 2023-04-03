@@ -1,0 +1,17 @@
+#heading{
+    text-align: center;
+}
+
+.main{
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    margin-left: 600px;
+    /* float: inherit; */
+}
+
+#btnn{
+    width: 70px;
+    text-align: center;
+    margin-left: 800px;
+}
