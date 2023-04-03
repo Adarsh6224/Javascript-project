@@ -1,0 +1,23 @@
+.bg-secondary {
+    --bs-bg-opacity: 0.8;
+    background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
+  }
+  a : link{
+    padding: 5px;
+  }
+  .main{
+    background-image: url("./mback.jpg");
+    height: 900px;
+  }
+  #form{
+    /* background-image: url("./formback.png"); */
+   
+  }
+  /* a :link{
+    background-color: red;
+    color: red;
+  } */
+
+  #d1{
+    color: beige;
+}
