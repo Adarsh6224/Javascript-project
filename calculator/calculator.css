@@ -1,0 +1,52 @@
+.main{
+    background-color: rgb(224, 219, 214);
+    border-radius: 15px;
+    margin-top: 20px;
+    height: 670px;
+    border: 2px solid rgb(17, 17, 17);
+}
+.scr{
+    width: 400px;
+    height: 100px;
+    border: 2px solid rgb(71, 125, 196);
+    border-radius: 5px;
+    border-style: double;
+    font-size: 50px;
+    margin-top: 30px;
+    margin-left: 25px;
+    background-color: rgb(114, 95, 95);
+}
+.r1{
+    display: flex;
+}
+.c1{
+    margin: 40px;
+    height: 20px;
+    width: 20px;
+    font-size: 25px;
+}
+.r2{
+    display: flex;
+}
+
+.r3{
+    display: flex;
+}
+
+.r4{
+    display: flex;
+}
+.c1 .btn{
+    width: 80px;
+    height: 80px;
+    font-size: 25px;
+    font-weight: 700;
+    border-style: solid;
+    border-radius: 2px;
+    border-radius: 10px;
+    background-color: rgba(124, 96, 96, 0.907);
+}
+.c1 .btn:hover{
+    color: rgb(78, 64, 64);
+    border: 2px solid rgb(74, 116, 255);
+}
