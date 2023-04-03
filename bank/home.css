@@ -1,0 +1,12 @@
+.main{
+    height: 1000px;
+    width: 100%;
+    background-color: aqua;
+}
+.btn btn-danger{
+    text-align: right;
+}
+#log{
+    text-align: right;
+    margin-left: 1600px;
+}

@@ -1,0 +1,8 @@
+.bg-secondary {
+    --bs-bg-opacity: 0.8;
+    background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
+  }
+  a : link{
+    padding: 5px;
+  }
+  
